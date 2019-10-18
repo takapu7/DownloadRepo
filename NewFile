@@ -1,4 +1,7 @@
 aaa
 bbb
+<<<<<<< HEAD
 bbb
 ccc
+=======
+>>>>>>> branch 'master' of https://github.com/takapu7/DownloadRepo.git
