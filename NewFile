@@ -1,2 +1,7 @@
 aaa
+<<<<<<< HEAD
 local
+=======
+web
+web2
+>>>>>>> refs/remotes/origin/master
